@@ -10,3 +10,4 @@ community.
 The shader pack is from [Hecomi's Japanese blog](http://tips.hecomi.com/entry/2015/10/11/211456). 
 Hecomi based his work on [GOROman's original work](https://twitter.com/GOROman/status/645896791469068288?ref_src=twsrc%5Etfw).
 
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/unity-steamvr-demo)
